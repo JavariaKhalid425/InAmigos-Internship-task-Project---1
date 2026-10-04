@@ -17,6 +17,9 @@ Features the entire dynamic interface including the Hero section, Core Values ca
 
 
 
+<img width="1366" height="4304" alt="screencapture-inamigos-foundation-ng-netlify-app-2026-10-04-13_00_29" src="https://github.com/user-attachments/assets/3b7abfa8-2e62-4af3-b469-4f6bc7f0ecb8" />
+
+
 
 
 
